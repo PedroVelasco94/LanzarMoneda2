@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/cara" android:duration="20" />
+    <item android:drawable="@drawable/cara2" android:duration="20" />
+    <item android:drawable="@drawable/cara3" android:duration="20" />
+    <item android:drawable="@drawable/cara4" android:duration="20" />
+    <item android:drawable="@drawable/cara5" android:duration="20" />
+    <item android:drawable="@drawable/f1" android:duration="20" />
+    <item android:drawable="@drawable/f2" android:duration="20" />
+    <item android:drawable="@drawable/f3" android:duration="20" />
+
+    <item android:drawable="@drawable/cruz" android:duration="20" />
+    <item android:drawable="@drawable/cruz2" android:duration="20" />
+    <item android:drawable="@drawable/cruz3" android:duration="20" />
+    <item android:drawable="@drawable/cruz4" android:duration="20" />
+    <item android:drawable="@drawable/cruz5" android:duration="20" />
+
+
+
+    <item android:drawable="@drawable/f1_2" android:duration="20" />
+
+    <item android:drawable="@drawable/f2_2" android:duration="20" />
+
+    <item android:drawable="@drawable/f3_2" android:duration="20" />
+
+</animation-list>
